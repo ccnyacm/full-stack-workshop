@@ -1,0 +1,26 @@
+{
+  "name": "full-stack-workshop",
+  "version": "1.0.0",
+  "description": "ACM workshop for backend development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccnyacm/full-stack-workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccnyacm/full-stack-workshop/issues"
+  },
+  "homepage": "https://github.com/ccnyacm/full-stack-workshop#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-polyfill": "^6.26.0",
+    "nodemon": "^1.18.10"
+  }
+}
