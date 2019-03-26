@@ -10,16 +10,3 @@ Technologies used:
 
 ## Frontend
 - Reactjs
-
-## environments
-- SECRET_KEY
-- DB_HOST
-- CLIENT_SERVICE
-- EMAIL_SERVICE
-- EMAIL_ADDRESS
-- EMAIL_PWD
-- EMAIL_SMTP_USER
-- EMAIL_SMTP_PWD
-- PORT
-
-## Docker
