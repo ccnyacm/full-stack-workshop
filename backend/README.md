@@ -1,5 +1,10 @@
-# full-stack-workshop
-ACM workshop where a back-end and a front-end application will be made, join both, and culminate in an Full Stack project.
+# Backend
+This is our starter backend app. 
+
+## Getting Started
+Download [Docker](https://docs.docker.com/) and follow installation instructions correspondent to your machine.
+
+Dowload [Yarn](https://yarnpkg.com/lang/en/docs/install/#mac-stable) and follow installation instructions correspondent to your machine.
 
 ## Development
 `docker-compose up --build` should do everything you need.
