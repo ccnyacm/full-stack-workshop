@@ -5,5 +5,14 @@ services:
     volumes:
       - ./:/app
     ports:
-      - "4000:80"
+      - "4000:4000"
+    depends_on:
+      - mongodb
+    env_file: "../backend/.env.development"
     command: "yarn dev"
+  mongodb:
+    image: mongo:latest
+    ports:
+      - "27017:27017"
+    volumes:
+      - "../data/db:/data/db"
