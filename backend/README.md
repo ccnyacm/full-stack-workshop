@@ -66,7 +66,7 @@ More about the `user.js` configuration can be found [here](https://medium.com/cr
 - Click Body
 - Add a JSON body with username, email, and password params
 - Click send, and look at the bottom for response
-![image](https://drive.google.com/file/d/1YiH06jvbTCctLzNKkCTlkFKOrQpG_Vp2/view?usp=sharing)
+![image](https://drive.google.com/uc?export=view&id=1YiH06jvbTCctLzNKkCTlkFKOrQpG_Vp2)
 - Send again with same params
-![image](https://drive.google.com/file/d/11UINHIbWlesn_ONJQpiyWJUChkSVfIEv/view?usp=sharing)
+![image](https://drive.google.com/uc?export=view&id=11UINHIbWlesn_ONJQpiyWJUChkSVfIEv)
 - Send again with any of the params to be empty (example: `"username": ""`) and check what happens!
